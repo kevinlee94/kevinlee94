@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://solved.ac/kevinlee94"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kevinlee94"></a>
+
 <!--
 **kevinlee94/kevinlee94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
