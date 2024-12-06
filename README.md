@@ -8,23 +8,23 @@
 
 <br>
 
-> 삼성 청년 SW 아카데미 수료 (2024.01 - 12)
+> **삼성 청년 SW 아카데미(SSAFY)** 수료 (2024. 01-12)
 <br>
 
-> 서울시립대학교 졸업 (2022.08)
+> **서울시립대학교** 졸업 (2022. 08)
 
 <br>
 
 ## Certificate & Achievements
 
 
-<!-- **Engineer Information Processing / 정보처리기사** > <br> HR Development Service of Korea / 한국산업인력공단 -->
+<!-- **정보처리기사** (2024.10) > <br> 한국산업인력공단 -->
 
-> **SQLD(SQL Developer) / SQL 개발자** > <br> Kdata / 한국데이터산업진흥원
+> **SQLD(SQL 개발자)** (2024. 11) | 한국데이터산업진흥원
 
 <!-- **Hyundai Softeer 역량테스트(HSAT) Level.2** | 현대엔지비 -->
 
-> **삼성 청년 SW 아카데미 1학기 성적우수상 (반 1등)** | 삼성전자
+> **SSAFY 2학기 공통 프로젝트 우수상** (2024. 08) | 삼성전자 주식회사
 
 <br>
 
