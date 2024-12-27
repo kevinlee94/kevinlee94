@@ -8,21 +8,18 @@
 
 <br>
 
-> **삼성 청년 SW 아카데미(SSAFY)** 수료 (2024. 01-12)
+> **삼성 청년 SW 아카데미(SSAFY)** 수료 (2024. 12.)
 >
-> **서울시립대학교** 졸업 (2022. 08)
+> **서울시립대학교** 졸업 (2022. 8.)
 
 <br><br>
 
 ## Certificate & Achievements
 
-<!-- **정보처리기사** (2024.10) > <br> 한국산업인력공단 -->
-> **SQLD(SQL 개발자)** (2024. 11) | 한국데이터산업진흥원
+<!-- **정보처리기사** (2024. 10.) > <br> 한국산업인력공단 -->
+> **SQLD(SQL 개발자)** (2024. 12.) | 한국데이터산업진흥원
 >
-<!-- **Hyundai Softeer 역량테스트(HSAT) Level.2** | 현대엔지비 -->
-> **PCCP(Programmers Certified Coding Professional)** Java Lv.1 (2024. 12) | (주)그렙
->
-> **SSAFY 2학기 공통 프로젝트 우수상** (2024. 08) | 삼성전자 주식회사
+> **SSAFY 2학기 공통 프로젝트 우수상** (2024. 8.) | 삼성전자 주식회사
 
 <br><br>
 
@@ -77,6 +74,11 @@
 <br><br>
 
 ## Algorithm
+> **HSAT(Hyundai Software Aptitude Test)** Java Lv.2 (2024. 12.) | 현대엔지비
+>
+> **PCCP(Programmers Certified Coding Professional)** Java Lv.1 (2024. 12.) | (주)그렙
+>
+<br>
 
 <a href="https://solved.ac/kevinlee94"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kevinlee94"></a>
 
